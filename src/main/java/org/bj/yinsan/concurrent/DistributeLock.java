@@ -12,7 +12,7 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 
 /**
- * @Auther: yinsan@douyu.tv
+ * @Auther: xuxin930
  * @Date: 2020/11/13/11:47 上午
  * @Description:
  */
